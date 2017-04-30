@@ -20,7 +20,7 @@
 
 #### 实现说明
 
-使用 matlab 实现，代码和报告托管在[github]上。
+使用 matlab 实现，代码和报告托管在[github](https://github.com/zqwerty/pattern_classification)上。
 
 ## 训练集与测试集
 
